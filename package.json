@@ -10,6 +10,7 @@
   "devDependencies": {
     "@types/node": "^10.0.4",
     "fuse-box": "^3.2.2",
+    "opn": "^5.3.0",
     "typescript": "^2.8.3"
   },
   "dependencies": {
