@@ -1,4 +1,4 @@
 .fusebox/
 node_modules/
-**/*.js
-**/*.js.map
+dist/*.js
+dist/*.js.map
